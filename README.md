@@ -193,6 +193,7 @@ source /etc/network/interfaces.d/*
 auto lo
 iface lo inet loopback
 EOF
+sync
 ```
 
 ---
